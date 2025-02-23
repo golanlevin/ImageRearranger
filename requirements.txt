@@ -2,5 +2,9 @@ numpy
 scipy
 scikit-learn
 Pillow
+jupyter
+matplotlib
+opencv-python
+scikit-image
 umap-learn
 git+https://github.com/gatagat/lap.git

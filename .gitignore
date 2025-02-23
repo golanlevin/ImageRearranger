@@ -1,2 +1,15 @@
+# Ignore Python cache files and Jupyter temp files
+__pycache__/
 *.pyc
-.ipynb_checkpoints
+*.pyo
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+Inputs/.DS_Store
+
+# Ignore virtual environment (change the folder name if needed)
+mosaicVenv/
+
+# Ignore large outputs (optional, but recommended if generating files)
+final_mosaic.png
