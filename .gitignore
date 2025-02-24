@@ -13,3 +13,6 @@ mosaicVenv/
 
 # Ignore large outputs (optional, but recommended if generating files)
 final_mosaic.png
+
+# Ignore this folder of data files; we'll load everything from a zip.
+nga_kress_32/
