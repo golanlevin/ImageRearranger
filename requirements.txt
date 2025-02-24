@@ -7,4 +7,6 @@ matplotlib
 opencv-python
 scikit-image
 umap-learn
+torch
+torchvision
 git+https://github.com/gatagat/lap.git

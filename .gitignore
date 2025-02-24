@@ -6,7 +6,7 @@ __pycache__/
 
 # Ignore macOS system files
 .DS_Store
-Inputs/.DS_Store
+inputs/.DS_Store
 
 # Ignore virtual environment (change the folder name if needed)
 mosaicVenv/
@@ -16,3 +16,4 @@ final_mosaic.png
 
 # Ignore this folder of data files; we'll load everything from a zip.
 nga_kress_32/
+inputs/nga_kress_32/
