@@ -17,3 +17,4 @@ final_mosaic.png
 # Ignore this folder of data files; we'll load everything from a zip.
 nga_kress_32/
 inputs/nga_kress_32/
+get-pip.py
