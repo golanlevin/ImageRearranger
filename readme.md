@@ -4,12 +4,14 @@
 
 ![overview.png](overview.png)
 
-[**This notebook**](ImageRearranger.ipynb):
+[**This Jupyter Notebook**](ImageRearranger.ipynb), *ImageRearranger.ipynb*:
 
 1. Loads a collection of images (either as a zipped file, a directory, or in the form of a single mosaic image).
 2. Computes high-dimensional features which describe the images (either using an [image pyramid](https://en.wikipedia.org/wiki/Pyramid_(image_processing)), or a neural network).
 3. [Reduces the dimensionality](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction) of those features to a 2D point cloud (either using [UMAP](https://umap-learn.readthedocs.io/en/latest/) or [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding))
 4. Rectifies the 2D point cloud into a grid (by solving the [Linear Assignment Problem](https://en.wikipedia.org/wiki/Assignment_problem)), using that grid to produce an ordered mosaic of the input images.
+
+Note: an almost identical [**Google Colab version of this notebook** can be found here](https://colab.research.google.com/drive/1rgxYnSziGuToW0oLbmzSwq470e6nVXHC?usp=sharing).
 
 ---
 
