@@ -11,8 +11,9 @@ inputs/.DS_Store
 # Ignore virtual environment (change the folder name if needed)
 mosaicVenv/
 
-# Ignore large outputs (optional, but recommended if generating files)
+# Ignore large outputs
 final_mosaic.png
+output/
 
 # Ignore this folder of data files; we'll load everything from a zip.
 nga_kress_32/
