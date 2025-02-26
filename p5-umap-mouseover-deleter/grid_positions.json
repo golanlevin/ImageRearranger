@@ -1,0 +1,4232 @@
+{
+  "grid_size": {
+    "nx": 41,
+    "ny": 26
+  },
+  "positions": {
+    "kress_00001.png": {
+      "col": 18,
+      "row": 24
+    },
+    "kress_00002.png": {
+      "col": 16,
+      "row": 0
+    },
+    "kress_00003.png": {
+      "col": 32,
+      "row": 0
+    },
+    "kress_00004.png": {
+      "col": 16,
+      "row": 10
+    },
+    "kress_00005.png": {
+      "col": 12,
+      "row": 8
+    },
+    "kress_00006.png": {
+      "col": 10,
+      "row": 23
+    },
+    "kress_00007.png": {
+      "col": 27,
+      "row": 21
+    },
+    "kress_00008.png": {
+      "col": 29,
+      "row": 12
+    },
+    "kress_00009.png": {
+      "col": 35,
+      "row": 25
+    },
+    "kress_00010.png": {
+      "col": 18,
+      "row": 19
+    },
+    "kress_00011.png": {
+      "col": 24,
+      "row": 13
+    },
+    "kress_00012.png": {
+      "col": 21,
+      "row": 5
+    },
+    "kress_00013.png": {
+      "col": 22,
+      "row": 15
+    },
+    "kress_00014.png": {
+      "col": 7,
+      "row": 25
+    },
+    "kress_00015.png": {
+      "col": 18,
+      "row": 1
+    },
+    "kress_00016.png": {
+      "col": 37,
+      "row": 12
+    },
+    "kress_00017.png": {
+      "col": 16,
+      "row": 13
+    },
+    "kress_00018.png": {
+      "col": 25,
+      "row": 15
+    },
+    "kress_00019.png": {
+      "col": 28,
+      "row": 10
+    },
+    "kress_00020.png": {
+      "col": 25,
+      "row": 13
+    },
+    "kress_00021.png": {
+      "col": 25,
+      "row": 24
+    },
+    "kress_00022.png": {
+      "col": 12,
+      "row": 3
+    },
+    "kress_00023.png": {
+      "col": 5,
+      "row": 4
+    },
+    "kress_00024.png": {
+      "col": 34,
+      "row": 23
+    },
+    "kress_00025.png": {
+      "col": 28,
+      "row": 20
+    },
+    "kress_00026.png": {
+      "col": 24,
+      "row": 18
+    },
+    "kress_00027.png": {
+      "col": 34,
+      "row": 5
+    },
+    "kress_00028.png": {
+      "col": 32,
+      "row": 24
+    },
+    "kress_00029.png": {
+      "col": 25,
+      "row": 7
+    },
+    "kress_00030.png": {
+      "col": 13,
+      "row": 24
+    },
+    "kress_00031.png": {
+      "col": 10,
+      "row": 10
+    },
+    "kress_00032.png": {
+      "col": 25,
+      "row": 17
+    },
+    "kress_00033.png": {
+      "col": 33,
+      "row": 13
+    },
+    "kress_00034.png": {
+      "col": 6,
+      "row": 5
+    },
+    "kress_00035.png": {
+      "col": 16,
+      "row": 8
+    },
+    "kress_00036.png": {
+      "col": 37,
+      "row": 7
+    },
+    "kress_00037.png": {
+      "col": 39,
+      "row": 17
+    },
+    "kress_00038.png": {
+      "col": 14,
+      "row": 23
+    },
+    "kress_00039.png": {
+      "col": 24,
+      "row": 23
+    },
+    "kress_00040.png": {
+      "col": 25,
+      "row": 21
+    },
+    "kress_00041.png": {
+      "col": 25,
+      "row": 20
+    },
+    "kress_00042.png": {
+      "col": 8,
+      "row": 3
+    },
+    "kress_00043.png": {
+      "col": 40,
+      "row": 24
+    },
+    "kress_00044.png": {
+      "col": 11,
+      "row": 12
+    },
+    "kress_00045.png": {
+      "col": 38,
+      "row": 12
+    },
+    "kress_00046.png": {
+      "col": 22,
+      "row": 23
+    },
+    "kress_00047.png": {
+      "col": 10,
+      "row": 4
+    },
+    "kress_00048.png": {
+      "col": 27,
+      "row": 12
+    },
+    "kress_00049.png": {
+      "col": 32,
+      "row": 20
+    },
+    "kress_00050.png": {
+      "col": 28,
+      "row": 16
+    },
+    "kress_00051.png": {
+      "col": 17,
+      "row": 15
+    },
+    "kress_00052.png": {
+      "col": 0,
+      "row": 21
+    },
+    "kress_00053.png": {
+      "col": 16,
+      "row": 14
+    },
+    "kress_00054.png": {
+      "col": 0,
+      "row": 2
+    },
+    "kress_00055.png": {
+      "col": 34,
+      "row": 6
+    },
+    "kress_00056.png": {
+      "col": 14,
+      "row": 2
+    },
+    "kress_00057.png": {
+      "col": 24,
+      "row": 4
+    },
+    "kress_00058.png": {
+      "col": 39,
+      "row": 24
+    },
+    "kress_00059.png": {
+      "col": 19,
+      "row": 22
+    },
+    "kress_00060.png": {
+      "col": 14,
+      "row": 1
+    },
+    "kress_00061.png": {
+      "col": 26,
+      "row": 22
+    },
+    "kress_00062.png": {
+      "col": 21,
+      "row": 9
+    },
+    "kress_00063.png": {
+      "col": 39,
+      "row": 10
+    },
+    "kress_00064.png": {
+      "col": 40,
+      "row": 11
+    },
+    "kress_00065.png": {
+      "col": 39,
+      "row": 12
+    },
+    "kress_00066.png": {
+      "col": 30,
+      "row": 16
+    },
+    "kress_00067.png": {
+      "col": 34,
+      "row": 24
+    },
+    "kress_00068.png": {
+      "col": 38,
+      "row": 16
+    },
+    "kress_00069.png": {
+      "col": 22,
+      "row": 13
+    },
+    "kress_00070.png": {
+      "col": 27,
+      "row": 22
+    },
+    "kress_00071.png": {
+      "col": 26,
+      "row": 24
+    },
+    "kress_00072.png": {
+      "col": 32,
+      "row": 25
+    },
+    "kress_00073.png": {
+      "col": 18,
+      "row": 21
+    },
+    "kress_00074.png": {
+      "col": 26,
+      "row": 23
+    },
+    "kress_00075.png": {
+      "col": 8,
+      "row": 24
+    },
+    "kress_00076.png": {
+      "col": 23,
+      "row": 23
+    },
+    "kress_00077.png": {
+      "col": 29,
+      "row": 23
+    },
+    "kress_00078.png": {
+      "col": 12,
+      "row": 2
+    },
+    "kress_00079.png": {
+      "col": 5,
+      "row": 3
+    },
+    "kress_00080.png": {
+      "col": 21,
+      "row": 25
+    },
+    "kress_00081.png": {
+      "col": 28,
+      "row": 17
+    },
+    "kress_00082.png": {
+      "col": 35,
+      "row": 18
+    },
+    "kress_00083.png": {
+      "col": 14,
+      "row": 25
+    },
+    "kress_00084.png": {
+      "col": 40,
+      "row": 12
+    },
+    "kress_00085.png": {
+      "col": 40,
+      "row": 7
+    },
+    "kress_00086.png": {
+      "col": 23,
+      "row": 10
+    },
+    "kress_00087.png": {
+      "col": 12,
+      "row": 4
+    },
+    "kress_00088.png": {
+      "col": 17,
+      "row": 6
+    },
+    "kress_00089.png": {
+      "col": 9,
+      "row": 11
+    },
+    "kress_00090.png": {
+      "col": 35,
+      "row": 0
+    },
+    "kress_00091.png": {
+      "col": 22,
+      "row": 2
+    },
+    "kress_00092.png": {
+      "col": 34,
+      "row": 1
+    },
+    "kress_00093.png": {
+      "col": 26,
+      "row": 3
+    },
+    "kress_00094.png": {
+      "col": 23,
+      "row": 1
+    },
+    "kress_00095.png": {
+      "col": 24,
+      "row": 1
+    },
+    "kress_00096.png": {
+      "col": 6,
+      "row": 7
+    },
+    "kress_00097.png": {
+      "col": 5,
+      "row": 7
+    },
+    "kress_00098.png": {
+      "col": 0,
+      "row": 5
+    },
+    "kress_00099.png": {
+      "col": 27,
+      "row": 6
+    },
+    "kress_00100.png": {
+      "col": 6,
+      "row": 19
+    },
+    "kress_00101.png": {
+      "col": 28,
+      "row": 9
+    },
+    "kress_00102.png": {
+      "col": 11,
+      "row": 13
+    },
+    "kress_00103.png": {
+      "col": 23,
+      "row": 24
+    },
+    "kress_00104.png": {
+      "col": 4,
+      "row": 0
+    },
+    "kress_00105.png": {
+      "col": 34,
+      "row": 12
+    },
+    "kress_00106.png": {
+      "col": 29,
+      "row": 18
+    },
+    "kress_00107.png": {
+      "col": 4,
+      "row": 1
+    },
+    "kress_00108.png": {
+      "col": 10,
+      "row": 19
+    },
+    "kress_00109.png": {
+      "col": 8,
+      "row": 13
+    },
+    "kress_00110.png": {
+      "col": 15,
+      "row": 18
+    },
+    "kress_00111.png": {
+      "col": 36,
+      "row": 6
+    },
+    "kress_00112.png": {
+      "col": 1,
+      "row": 14
+    },
+    "kress_00113.png": {
+      "col": 18,
+      "row": 25
+    },
+    "kress_00114.png": {
+      "col": 13,
+      "row": 4
+    },
+    "kress_00115.png": {
+      "col": 23,
+      "row": 11
+    },
+    "kress_00116.png": {
+      "col": 9,
+      "row": 13
+    },
+    "kress_00117.png": {
+      "col": 21,
+      "row": 13
+    },
+    "kress_00118.png": {
+      "col": 34,
+      "row": 17
+    },
+    "kress_00119.png": {
+      "col": 3,
+      "row": 20
+    },
+    "kress_00120.png": {
+      "col": 32,
+      "row": 10
+    },
+    "kress_00121.png": {
+      "col": 12,
+      "row": 10
+    },
+    "kress_00122.png": {
+      "col": 12,
+      "row": 12
+    },
+    "kress_00123.png": {
+      "col": 16,
+      "row": 6
+    },
+    "kress_00124.png": {
+      "col": 16,
+      "row": 11
+    },
+    "kress_00125.png": {
+      "col": 9,
+      "row": 5
+    },
+    "kress_00126.png": {
+      "col": 26,
+      "row": 6
+    },
+    "kress_00127.png": {
+      "col": 22,
+      "row": 5
+    },
+    "kress_00128.png": {
+      "col": 11,
+      "row": 4
+    },
+    "kress_00129.png": {
+      "col": 7,
+      "row": 1
+    },
+    "kress_00130.png": {
+      "col": 8,
+      "row": 7
+    },
+    "kress_00131.png": {
+      "col": 17,
+      "row": 2
+    },
+    "kress_00132.png": {
+      "col": 2,
+      "row": 5
+    },
+    "kress_00133.png": {
+      "col": 6,
+      "row": 12
+    },
+    "kress_00134.png": {
+      "col": 30,
+      "row": 1
+    },
+    "kress_00135.png": {
+      "col": 13,
+      "row": 7
+    },
+    "kress_00136.png": {
+      "col": 7,
+      "row": 0
+    },
+    "kress_00137.png": {
+      "col": 9,
+      "row": 7
+    },
+    "kress_00138.png": {
+      "col": 14,
+      "row": 14
+    },
+    "kress_00139.png": {
+      "col": 31,
+      "row": 0
+    },
+    "kress_00140.png": {
+      "col": 24,
+      "row": 16
+    },
+    "kress_00141.png": {
+      "col": 0,
+      "row": 12
+    },
+    "kress_00142.png": {
+      "col": 20,
+      "row": 17
+    },
+    "kress_00143.png": {
+      "col": 18,
+      "row": 22
+    },
+    "kress_00144.png": {
+      "col": 15,
+      "row": 3
+    },
+    "kress_00145.png": {
+      "col": 30,
+      "row": 24
+    },
+    "kress_00146.png": {
+      "col": 20,
+      "row": 11
+    },
+    "kress_00147.png": {
+      "col": 20,
+      "row": 3
+    },
+    "kress_00148.png": {
+      "col": 34,
+      "row": 2
+    },
+    "kress_00149.png": {
+      "col": 32,
+      "row": 3
+    },
+    "kress_00150.png": {
+      "col": 19,
+      "row": 3
+    },
+    "kress_00151.png": {
+      "col": 1,
+      "row": 3
+    },
+    "kress_00152.png": {
+      "col": 9,
+      "row": 17
+    },
+    "kress_00153.png": {
+      "col": 15,
+      "row": 25
+    },
+    "kress_00154.png": {
+      "col": 14,
+      "row": 11
+    },
+    "kress_00155.png": {
+      "col": 18,
+      "row": 13
+    },
+    "kress_00156.png": {
+      "col": 10,
+      "row": 8
+    },
+    "kress_00157.png": {
+      "col": 19,
+      "row": 16
+    },
+    "kress_00158.png": {
+      "col": 17,
+      "row": 5
+    },
+    "kress_00159.png": {
+      "col": 36,
+      "row": 0
+    },
+    "kress_00160.png": {
+      "col": 2,
+      "row": 19
+    },
+    "kress_00161.png": {
+      "col": 38,
+      "row": 24
+    },
+    "kress_00162.png": {
+      "col": 31,
+      "row": 5
+    },
+    "kress_00163.png": {
+      "col": 21,
+      "row": 10
+    },
+    "kress_00164.png": {
+      "col": 20,
+      "row": 10
+    },
+    "kress_00165.png": {
+      "col": 40,
+      "row": 10
+    },
+    "kress_00166.png": {
+      "col": 5,
+      "row": 19
+    },
+    "kress_00167.png": {
+      "col": 0,
+      "row": 8
+    },
+    "kress_00168.png": {
+      "col": 3,
+      "row": 14
+    },
+    "kress_00169.png": {
+      "col": 19,
+      "row": 2
+    },
+    "kress_00170.png": {
+      "col": 18,
+      "row": 2
+    },
+    "kress_00171.png": {
+      "col": 2,
+      "row": 22
+    },
+    "kress_00172.png": {
+      "col": 2,
+      "row": 1
+    },
+    "kress_00173.png": {
+      "col": 38,
+      "row": 11
+    },
+    "kress_00174.png": {
+      "col": 34,
+      "row": 21
+    },
+    "kress_00175.png": {
+      "col": 17,
+      "row": 0
+    },
+    "kress_00176.png": {
+      "col": 26,
+      "row": 18
+    },
+    "kress_00177.png": {
+      "col": 10,
+      "row": 5
+    },
+    "kress_00178.png": {
+      "col": 17,
+      "row": 13
+    },
+    "kress_00179.png": {
+      "col": 4,
+      "row": 22
+    },
+    "kress_00180.png": {
+      "col": 27,
+      "row": 24
+    },
+    "kress_00181.png": {
+      "col": 14,
+      "row": 24
+    },
+    "kress_00182.png": {
+      "col": 12,
+      "row": 7
+    },
+    "kress_00183.png": {
+      "col": 12,
+      "row": 9
+    },
+    "kress_00184.png": {
+      "col": 14,
+      "row": 10
+    },
+    "kress_00185.png": {
+      "col": 26,
+      "row": 0
+    },
+    "kress_00186.png": {
+      "col": 27,
+      "row": 0
+    },
+    "kress_00187.png": {
+      "col": 17,
+      "row": 1
+    },
+    "kress_00188.png": {
+      "col": 34,
+      "row": 14
+    },
+    "kress_00189.png": {
+      "col": 23,
+      "row": 19
+    },
+    "kress_00190.png": {
+      "col": 31,
+      "row": 4
+    },
+    "kress_00191.png": {
+      "col": 4,
+      "row": 13
+    },
+    "kress_00192.png": {
+      "col": 24,
+      "row": 12
+    },
+    "kress_00193.png": {
+      "col": 11,
+      "row": 6
+    },
+    "kress_00194.png": {
+      "col": 4,
+      "row": 23
+    },
+    "kress_00195.png": {
+      "col": 16,
+      "row": 9
+    },
+    "kress_00196.png": {
+      "col": 16,
+      "row": 7
+    },
+    "kress_00197.png": {
+      "col": 24,
+      "row": 8
+    },
+    "kress_00198.png": {
+      "col": 8,
+      "row": 4
+    },
+    "kress_00199.png": {
+      "col": 4,
+      "row": 17
+    },
+    "kress_00200.png": {
+      "col": 1,
+      "row": 7
+    },
+    "kress_00201.png": {
+      "col": 2,
+      "row": 20
+    },
+    "kress_00202.png": {
+      "col": 4,
+      "row": 19
+    },
+    "kress_00203.png": {
+      "col": 35,
+      "row": 23
+    },
+    "kress_00204.png": {
+      "col": 5,
+      "row": 21
+    },
+    "kress_00205.png": {
+      "col": 33,
+      "row": 24
+    },
+    "kress_00206.png": {
+      "col": 7,
+      "row": 4
+    },
+    "kress_00207.png": {
+      "col": 1,
+      "row": 18
+    },
+    "kress_00208.png": {
+      "col": 25,
+      "row": 16
+    },
+    "kress_00209.png": {
+      "col": 35,
+      "row": 1
+    },
+    "kress_00210.png": {
+      "col": 4,
+      "row": 2
+    },
+    "kress_00211.png": {
+      "col": 12,
+      "row": 15
+    },
+    "kress_00212.png": {
+      "col": 39,
+      "row": 5
+    },
+    "kress_00213.png": {
+      "col": 39,
+      "row": 13
+    },
+    "kress_00214.png": {
+      "col": 23,
+      "row": 9
+    },
+    "kress_00215.png": {
+      "col": 15,
+      "row": 10
+    },
+    "kress_00216.png": {
+      "col": 20,
+      "row": 23
+    },
+    "kress_00217.png": {
+      "col": 39,
+      "row": 0
+    },
+    "kress_00218.png": {
+      "col": 3,
+      "row": 13
+    },
+    "kress_00219.png": {
+      "col": 35,
+      "row": 6
+    },
+    "kress_00220.png": {
+      "col": 9,
+      "row": 19
+    },
+    "kress_00221.png": {
+      "col": 20,
+      "row": 13
+    },
+    "kress_00222.png": {
+      "col": 3,
+      "row": 4
+    },
+    "kress_00223.png": {
+      "col": 34,
+      "row": 8
+    },
+    "kress_00224.png": {
+      "col": 28,
+      "row": 11
+    },
+    "kress_00225.png": {
+      "col": 19,
+      "row": 23
+    },
+    "kress_00226.png": {
+      "col": 13,
+      "row": 9
+    },
+    "kress_00227.png": {
+      "col": 20,
+      "row": 21
+    },
+    "kress_00228.png": {
+      "col": 11,
+      "row": 3
+    },
+    "kress_00229.png": {
+      "col": 32,
+      "row": 23
+    },
+    "kress_00230.png": {
+      "col": 36,
+      "row": 8
+    },
+    "kress_00231.png": {
+      "col": 13,
+      "row": 3
+    },
+    "kress_00232.png": {
+      "col": 21,
+      "row": 12
+    },
+    "kress_00233.png": {
+      "col": 14,
+      "row": 6
+    },
+    "kress_00234.png": {
+      "col": 18,
+      "row": 5
+    },
+    "kress_00235.png": {
+      "col": 3,
+      "row": 15
+    },
+    "kress_00236.png": {
+      "col": 16,
+      "row": 12
+    },
+    "kress_00237.png": {
+      "col": 23,
+      "row": 4
+    },
+    "kress_00238.png": {
+      "col": 14,
+      "row": 15
+    },
+    "kress_00239.png": {
+      "col": 1,
+      "row": 23
+    },
+    "kress_00240.png": {
+      "col": 5,
+      "row": 22
+    },
+    "kress_00241.png": {
+      "col": 31,
+      "row": 11
+    },
+    "kress_00242.png": {
+      "col": 13,
+      "row": 23
+    },
+    "kress_00243.png": {
+      "col": 7,
+      "row": 3
+    },
+    "kress_00244.png": {
+      "col": 34,
+      "row": 19
+    },
+    "kress_00245.png": {
+      "col": 32,
+      "row": 5
+    },
+    "kress_00246.png": {
+      "col": 2,
+      "row": 3
+    },
+    "kress_00247.png": {
+      "col": 22,
+      "row": 1
+    },
+    "kress_00248.png": {
+      "col": 20,
+      "row": 2
+    },
+    "kress_00249.png": {
+      "col": 17,
+      "row": 7
+    },
+    "kress_00250.png": {
+      "col": 7,
+      "row": 12
+    },
+    "kress_00251.png": {
+      "col": 7,
+      "row": 2
+    },
+    "kress_00252.png": {
+      "col": 26,
+      "row": 10
+    },
+    "kress_00253.png": {
+      "col": 29,
+      "row": 9
+    },
+    "kress_00254.png": {
+      "col": 16,
+      "row": 2
+    },
+    "kress_00255.png": {
+      "col": 35,
+      "row": 17
+    },
+    "kress_00256.png": {
+      "col": 9,
+      "row": 9
+    },
+    "kress_00257.png": {
+      "col": 5,
+      "row": 6
+    },
+    "kress_00258.png": {
+      "col": 40,
+      "row": 5
+    },
+    "kress_00259.png": {
+      "col": 39,
+      "row": 7
+    },
+    "kress_00260.png": {
+      "col": 29,
+      "row": 21
+    },
+    "kress_00261.png": {
+      "col": 25,
+      "row": 23
+    },
+    "kress_00262.png": {
+      "col": 25,
+      "row": 11
+    },
+    "kress_00263.png": {
+      "col": 22,
+      "row": 21
+    },
+    "kress_00264.png": {
+      "col": 25,
+      "row": 2
+    },
+    "kress_00265.png": {
+      "col": 13,
+      "row": 14
+    },
+    "kress_00266.png": {
+      "col": 25,
+      "row": 4
+    },
+    "kress_00267.png": {
+      "col": 22,
+      "row": 0
+    },
+    "kress_00268.png": {
+      "col": 8,
+      "row": 9
+    },
+    "kress_00269.png": {
+      "col": 7,
+      "row": 10
+    },
+    "kress_00270.png": {
+      "col": 8,
+      "row": 10
+    },
+    "kress_00271.png": {
+      "col": 30,
+      "row": 18
+    },
+    "kress_00272.png": {
+      "col": 1,
+      "row": 13
+    },
+    "kress_00273.png": {
+      "col": 17,
+      "row": 22
+    },
+    "kress_00274.png": {
+      "col": 4,
+      "row": 18
+    },
+    "kress_00275.png": {
+      "col": 13,
+      "row": 22
+    },
+    "kress_00276.png": {
+      "col": 16,
+      "row": 3
+    },
+    "kress_00277.png": {
+      "col": 30,
+      "row": 10
+    },
+    "kress_00278.png": {
+      "col": 9,
+      "row": 4
+    },
+    "kress_00279.png": {
+      "col": 9,
+      "row": 3
+    },
+    "kress_00280.png": {
+      "col": 5,
+      "row": 8
+    },
+    "kress_00281.png": {
+      "col": 11,
+      "row": 23
+    },
+    "kress_00282.png": {
+      "col": 6,
+      "row": 10
+    },
+    "kress_00283.png": {
+      "col": 3,
+      "row": 2
+    },
+    "kress_00284.png": {
+      "col": 22,
+      "row": 6
+    },
+    "kress_00285.png": {
+      "col": 7,
+      "row": 20
+    },
+    "kress_00286.png": {
+      "col": 18,
+      "row": 16
+    },
+    "kress_00287.png": {
+      "col": 35,
+      "row": 10
+    },
+    "kress_00288.png": {
+      "col": 18,
+      "row": 0
+    },
+    "kress_00289.png": {
+      "col": 20,
+      "row": 22
+    },
+    "kress_00290.png": {
+      "col": 38,
+      "row": 23
+    },
+    "kress_00291.png": {
+      "col": 21,
+      "row": 2
+    },
+    "kress_00292.png": {
+      "col": 22,
+      "row": 3
+    },
+    "kress_00293.png": {
+      "col": 1,
+      "row": 8
+    },
+    "kress_00294.png": {
+      "col": 13,
+      "row": 0
+    },
+    "kress_00295.png": {
+      "col": 27,
+      "row": 25
+    },
+    "kress_00296.png": {
+      "col": 13,
+      "row": 1
+    },
+    "kress_00297.png": {
+      "col": 14,
+      "row": 9
+    },
+    "kress_00298.png": {
+      "col": 31,
+      "row": 3
+    },
+    "kress_00299.png": {
+      "col": 9,
+      "row": 24
+    },
+    "kress_00300.png": {
+      "col": 17,
+      "row": 20
+    },
+    "kress_00301.png": {
+      "col": 32,
+      "row": 7
+    },
+    "kress_00302.png": {
+      "col": 22,
+      "row": 19
+    },
+    "kress_00303.png": {
+      "col": 1,
+      "row": 16
+    },
+    "kress_00304.png": {
+      "col": 7,
+      "row": 13
+    },
+    "kress_00305.png": {
+      "col": 10,
+      "row": 1
+    },
+    "kress_00306.png": {
+      "col": 27,
+      "row": 11
+    },
+    "kress_00307.png": {
+      "col": 15,
+      "row": 9
+    },
+    "kress_00308.png": {
+      "col": 15,
+      "row": 11
+    },
+    "kress_00309.png": {
+      "col": 31,
+      "row": 20
+    },
+    "kress_00310.png": {
+      "col": 20,
+      "row": 0
+    },
+    "kress_00311.png": {
+      "col": 28,
+      "row": 25
+    },
+    "kress_00312.png": {
+      "col": 26,
+      "row": 25
+    },
+    "kress_00313.png": {
+      "col": 31,
+      "row": 9
+    },
+    "kress_00314.png": {
+      "col": 11,
+      "row": 2
+    },
+    "kress_00315.png": {
+      "col": 23,
+      "row": 25
+    },
+    "kress_00316.png": {
+      "col": 39,
+      "row": 4
+    },
+    "kress_00317.png": {
+      "col": 34,
+      "row": 9
+    },
+    "kress_00318.png": {
+      "col": 26,
+      "row": 9
+    },
+    "kress_00319.png": {
+      "col": 35,
+      "row": 13
+    },
+    "kress_00320.png": {
+      "col": 4,
+      "row": 6
+    },
+    "kress_00321.png": {
+      "col": 7,
+      "row": 7
+    },
+    "kress_00322.png": {
+      "col": 4,
+      "row": 8
+    },
+    "kress_00323.png": {
+      "col": 17,
+      "row": 3
+    },
+    "kress_00324.png": {
+      "col": 23,
+      "row": 0
+    },
+    "kress_00325.png": {
+      "col": 5,
+      "row": 17
+    },
+    "kress_00326.png": {
+      "col": 0,
+      "row": 13
+    },
+    "kress_00327.png": {
+      "col": 39,
+      "row": 8
+    },
+    "kress_00328.png": {
+      "col": 3,
+      "row": 0
+    },
+    "kress_00329.png": {
+      "col": 19,
+      "row": 12
+    },
+    "kress_00330.png": {
+      "col": 19,
+      "row": 9
+    },
+    "kress_00331.png": {
+      "col": 8,
+      "row": 5
+    },
+    "kress_00332.png": {
+      "col": 29,
+      "row": 7
+    },
+    "kress_00333.png": {
+      "col": 15,
+      "row": 0
+    },
+    "kress_00334.png": {
+      "col": 14,
+      "row": 7
+    },
+    "kress_00335.png": {
+      "col": 17,
+      "row": 19
+    },
+    "kress_00336.png": {
+      "col": 15,
+      "row": 14
+    },
+    "kress_00337.png": {
+      "col": 37,
+      "row": 4
+    },
+    "kress_00338.png": {
+      "col": 17,
+      "row": 23
+    },
+    "kress_00339.png": {
+      "col": 19,
+      "row": 7
+    },
+    "kress_00340.png": {
+      "col": 23,
+      "row": 2
+    },
+    "kress_00341.png": {
+      "col": 6,
+      "row": 20
+    },
+    "kress_00342.png": {
+      "col": 32,
+      "row": 17
+    },
+    "kress_00343.png": {
+      "col": 29,
+      "row": 13
+    },
+    "kress_00344.png": {
+      "col": 24,
+      "row": 21
+    },
+    "kress_00345.png": {
+      "col": 32,
+      "row": 16
+    },
+    "kress_00346.png": {
+      "col": 14,
+      "row": 8
+    },
+    "kress_00347.png": {
+      "col": 36,
+      "row": 9
+    },
+    "kress_00348.png": {
+      "col": 9,
+      "row": 10
+    },
+    "kress_00349.png": {
+      "col": 10,
+      "row": 7
+    },
+    "kress_00350.png": {
+      "col": 38,
+      "row": 1
+    },
+    "kress_00351.png": {
+      "col": 4,
+      "row": 16
+    },
+    "kress_00352.png": {
+      "col": 24,
+      "row": 0
+    },
+    "kress_00353.png": {
+      "col": 27,
+      "row": 20
+    },
+    "kress_00354.png": {
+      "col": 36,
+      "row": 15
+    },
+    "kress_00355.png": {
+      "col": 30,
+      "row": 5
+    },
+    "kress_00356.png": {
+      "col": 22,
+      "row": 7
+    },
+    "kress_00357.png": {
+      "col": 25,
+      "row": 6
+    },
+    "kress_00358.png": {
+      "col": 33,
+      "row": 14
+    },
+    "kress_00359.png": {
+      "col": 4,
+      "row": 3
+    },
+    "kress_00360.png": {
+      "col": 24,
+      "row": 7
+    },
+    "kress_00361.png": {
+      "col": 6,
+      "row": 18
+    },
+    "kress_00362.png": {
+      "col": 38,
+      "row": 6
+    },
+    "kress_00363.png": {
+      "col": 4,
+      "row": 14
+    },
+    "kress_00364.png": {
+      "col": 16,
+      "row": 4
+    },
+    "kress_00365.png": {
+      "col": 17,
+      "row": 24
+    },
+    "kress_00366.png": {
+      "col": 35,
+      "row": 7
+    },
+    "kress_00367.png": {
+      "col": 1,
+      "row": 9
+    },
+    "kress_00368.png": {
+      "col": 8,
+      "row": 2
+    },
+    "kress_00369.png": {
+      "col": 25,
+      "row": 25
+    },
+    "kress_00370.png": {
+      "col": 15,
+      "row": 8
+    },
+    "kress_00371.png": {
+      "col": 23,
+      "row": 8
+    },
+    "kress_00372.png": {
+      "col": 21,
+      "row": 4
+    },
+    "kress_00373.png": {
+      "col": 19,
+      "row": 1
+    },
+    "kress_00374.png": {
+      "col": 32,
+      "row": 19
+    },
+    "kress_00375.png": {
+      "col": 11,
+      "row": 25
+    },
+    "kress_00376.png": {
+      "col": 6,
+      "row": 4
+    },
+    "kress_00377.png": {
+      "col": 3,
+      "row": 19
+    },
+    "kress_00378.png": {
+      "col": 18,
+      "row": 4
+    },
+    "kress_00379.png": {
+      "col": 2,
+      "row": 0
+    },
+    "kress_00380.png": {
+      "col": 6,
+      "row": 2
+    },
+    "kress_00381.png": {
+      "col": 37,
+      "row": 17
+    },
+    "kress_00382.png": {
+      "col": 0,
+      "row": 10
+    },
+    "kress_00383.png": {
+      "col": 0,
+      "row": 0
+    },
+    "kress_00384.png": {
+      "col": 39,
+      "row": 22
+    },
+    "kress_00385.png": {
+      "col": 40,
+      "row": 25
+    },
+    "kress_00386.png": {
+      "col": 7,
+      "row": 18
+    },
+    "kress_00387.png": {
+      "col": 27,
+      "row": 5
+    },
+    "kress_00388.png": {
+      "col": 31,
+      "row": 25
+    },
+    "kress_00389.png": {
+      "col": 27,
+      "row": 3
+    },
+    "kress_00390.png": {
+      "col": 0,
+      "row": 23
+    },
+    "kress_00391.png": {
+      "col": 6,
+      "row": 22
+    },
+    "kress_00392.png": {
+      "col": 23,
+      "row": 21
+    },
+    "kress_00393.png": {
+      "col": 11,
+      "row": 8
+    },
+    "kress_00394.png": {
+      "col": 10,
+      "row": 24
+    },
+    "kress_00395.png": {
+      "col": 24,
+      "row": 6
+    },
+    "kress_00396.png": {
+      "col": 6,
+      "row": 1
+    },
+    "kress_00397.png": {
+      "col": 20,
+      "row": 1
+    },
+    "kress_00398.png": {
+      "col": 23,
+      "row": 6
+    },
+    "kress_00399.png": {
+      "col": 5,
+      "row": 11
+    },
+    "kress_00400.png": {
+      "col": 29,
+      "row": 10
+    },
+    "kress_00401.png": {
+      "col": 2,
+      "row": 7
+    },
+    "kress_00402.png": {
+      "col": 1,
+      "row": 15
+    },
+    "kress_00403.png": {
+      "col": 27,
+      "row": 8
+    },
+    "kress_00404.png": {
+      "col": 40,
+      "row": 13
+    },
+    "kress_00405.png": {
+      "col": 0,
+      "row": 9
+    },
+    "kress_00406.png": {
+      "col": 4,
+      "row": 12
+    },
+    "kress_00407.png": {
+      "col": 17,
+      "row": 21
+    },
+    "kress_00408.png": {
+      "col": 4,
+      "row": 4
+    },
+    "kress_00409.png": {
+      "col": 1,
+      "row": 6
+    },
+    "kress_00410.png": {
+      "col": 26,
+      "row": 7
+    },
+    "kress_00411.png": {
+      "col": 38,
+      "row": 8
+    },
+    "kress_00412.png": {
+      "col": 35,
+      "row": 20
+    },
+    "kress_00413.png": {
+      "col": 5,
+      "row": 0
+    },
+    "kress_00414.png": {
+      "col": 17,
+      "row": 17
+    },
+    "kress_00415.png": {
+      "col": 9,
+      "row": 2
+    },
+    "kress_00416.png": {
+      "col": 30,
+      "row": 2
+    },
+    "kress_00417.png": {
+      "col": 22,
+      "row": 8
+    },
+    "kress_00418.png": {
+      "col": 30,
+      "row": 23
+    },
+    "kress_00419.png": {
+      "col": 31,
+      "row": 22
+    },
+    "kress_00420.png": {
+      "col": 30,
+      "row": 22
+    },
+    "kress_00421.png": {
+      "col": 19,
+      "row": 10
+    },
+    "kress_00422.png": {
+      "col": 36,
+      "row": 25
+    },
+    "kress_00423.png": {
+      "col": 19,
+      "row": 4
+    },
+    "kress_00424.png": {
+      "col": 1,
+      "row": 22
+    },
+    "kress_00425.png": {
+      "col": 11,
+      "row": 20
+    },
+    "kress_00426.png": {
+      "col": 40,
+      "row": 4
+    },
+    "kress_00427.png": {
+      "col": 25,
+      "row": 12
+    },
+    "kress_00428.png": {
+      "col": 34,
+      "row": 4
+    },
+    "kress_00429.png": {
+      "col": 3,
+      "row": 1
+    },
+    "kress_00430.png": {
+      "col": 33,
+      "row": 2
+    },
+    "kress_00431.png": {
+      "col": 3,
+      "row": 16
+    },
+    "kress_00432.png": {
+      "col": 5,
+      "row": 2
+    },
+    "kress_00433.png": {
+      "col": 11,
+      "row": 10
+    },
+    "kress_00434.png": {
+      "col": 12,
+      "row": 23
+    },
+    "kress_00435.png": {
+      "col": 8,
+      "row": 8
+    },
+    "kress_00436.png": {
+      "col": 7,
+      "row": 6
+    },
+    "kress_00437.png": {
+      "col": 15,
+      "row": 23
+    },
+    "kress_00438.png": {
+      "col": 16,
+      "row": 22
+    },
+    "kress_00439.png": {
+      "col": 2,
+      "row": 13
+    },
+    "kress_00440.png": {
+      "col": 28,
+      "row": 13
+    },
+    "kress_00441.png": {
+      "col": 9,
+      "row": 1
+    },
+    "kress_00442.png": {
+      "col": 35,
+      "row": 2
+    },
+    "kress_00443.png": {
+      "col": 13,
+      "row": 21
+    },
+    "kress_00444.png": {
+      "col": 34,
+      "row": 22
+    },
+    "kress_00445.png": {
+      "col": 26,
+      "row": 20
+    },
+    "kress_00446.png": {
+      "col": 11,
+      "row": 17
+    },
+    "kress_00447.png": {
+      "col": 27,
+      "row": 19
+    },
+    "kress_00448.png": {
+      "col": 9,
+      "row": 14
+    },
+    "kress_00449.png": {
+      "col": 13,
+      "row": 15
+    },
+    "kress_00450.png": {
+      "col": 31,
+      "row": 19
+    },
+    "kress_00451.png": {
+      "col": 39,
+      "row": 15
+    },
+    "kress_00452.png": {
+      "col": 25,
+      "row": 10
+    },
+    "kress_00453.png": {
+      "col": 35,
+      "row": 22
+    },
+    "kress_00454.png": {
+      "col": 35,
+      "row": 4
+    },
+    "kress_00455.png": {
+      "col": 8,
+      "row": 21
+    },
+    "kress_00456.png": {
+      "col": 27,
+      "row": 17
+    },
+    "kress_00457.png": {
+      "col": 30,
+      "row": 9
+    },
+    "kress_00458.png": {
+      "col": 36,
+      "row": 2
+    },
+    "kress_00459.png": {
+      "col": 1,
+      "row": 21
+    },
+    "kress_00460.png": {
+      "col": 7,
+      "row": 24
+    },
+    "kress_00461.png": {
+      "col": 10,
+      "row": 3
+    },
+    "kress_00462.png": {
+      "col": 1,
+      "row": 2
+    },
+    "kress_00463.png": {
+      "col": 6,
+      "row": 6
+    },
+    "kress_00464.png": {
+      "col": 13,
+      "row": 10
+    },
+    "kress_00465.png": {
+      "col": 13,
+      "row": 5
+    },
+    "kress_00466.png": {
+      "col": 16,
+      "row": 1
+    },
+    "kress_00467.png": {
+      "col": 29,
+      "row": 24
+    },
+    "kress_00468.png": {
+      "col": 37,
+      "row": 25
+    },
+    "kress_00469.png": {
+      "col": 14,
+      "row": 22
+    },
+    "kress_00470.png": {
+      "col": 24,
+      "row": 10
+    },
+    "kress_00471.png": {
+      "col": 13,
+      "row": 17
+    },
+    "kress_00472.png": {
+      "col": 31,
+      "row": 24
+    },
+    "kress_00473.png": {
+      "col": 18,
+      "row": 11
+    },
+    "kress_00474.png": {
+      "col": 21,
+      "row": 6
+    },
+    "kress_00475.png": {
+      "col": 36,
+      "row": 5
+    },
+    "kress_00476.png": {
+      "col": 0,
+      "row": 18
+    },
+    "kress_00477.png": {
+      "col": 0,
+      "row": 4
+    },
+    "kress_00478.png": {
+      "col": 21,
+      "row": 24
+    },
+    "kress_00479.png": {
+      "col": 29,
+      "row": 20
+    },
+    "kress_00480.png": {
+      "col": 22,
+      "row": 4
+    },
+    "kress_00481.png": {
+      "col": 22,
+      "row": 11
+    },
+    "kress_00482.png": {
+      "col": 21,
+      "row": 1
+    },
+    "kress_00483.png": {
+      "col": 4,
+      "row": 11
+    },
+    "kress_00484.png": {
+      "col": 23,
+      "row": 7
+    },
+    "kress_00485.png": {
+      "col": 24,
+      "row": 14
+    },
+    "kress_00486.png": {
+      "col": 17,
+      "row": 25
+    },
+    "kress_00487.png": {
+      "col": 32,
+      "row": 8
+    },
+    "kress_00488.png": {
+      "col": 31,
+      "row": 2
+    },
+    "kress_00489.png": {
+      "col": 23,
+      "row": 13
+    },
+    "kress_00490.png": {
+      "col": 37,
+      "row": 0
+    },
+    "kress_00491.png": {
+      "col": 37,
+      "row": 1
+    },
+    "kress_00492.png": {
+      "col": 37,
+      "row": 3
+    },
+    "kress_00493.png": {
+      "col": 40,
+      "row": 1
+    },
+    "kress_00494.png": {
+      "col": 39,
+      "row": 3
+    },
+    "kress_00495.png": {
+      "col": 2,
+      "row": 8
+    },
+    "kress_00496.png": {
+      "col": 25,
+      "row": 0
+    },
+    "kress_00497.png": {
+      "col": 21,
+      "row": 0
+    },
+    "kress_00498.png": {
+      "col": 5,
+      "row": 13
+    },
+    "kress_00499.png": {
+      "col": 11,
+      "row": 0
+    },
+    "kress_00500.png": {
+      "col": 17,
+      "row": 12
+    },
+    "kress_00501.png": {
+      "col": 38,
+      "row": 2
+    },
+    "kress_00502.png": {
+      "col": 5,
+      "row": 1
+    },
+    "kress_00503.png": {
+      "col": 5,
+      "row": 9
+    },
+    "kress_00504.png": {
+      "col": 2,
+      "row": 10
+    },
+    "kress_00505.png": {
+      "col": 4,
+      "row": 9
+    },
+    "kress_00506.png": {
+      "col": 5,
+      "row": 10
+    },
+    "kress_00507.png": {
+      "col": 3,
+      "row": 9
+    },
+    "kress_00508.png": {
+      "col": 30,
+      "row": 11
+    },
+    "kress_00509.png": {
+      "col": 18,
+      "row": 8
+    },
+    "kress_00510.png": {
+      "col": 6,
+      "row": 8
+    },
+    "kress_00511.png": {
+      "col": 15,
+      "row": 20
+    },
+    "kress_00512.png": {
+      "col": 33,
+      "row": 5
+    },
+    "kress_00513.png": {
+      "col": 30,
+      "row": 15
+    },
+    "kress_00514.png": {
+      "col": 17,
+      "row": 8
+    },
+    "kress_00515.png": {
+      "col": 19,
+      "row": 11
+    },
+    "kress_00516.png": {
+      "col": 11,
+      "row": 16
+    },
+    "kress_00517.png": {
+      "col": 1,
+      "row": 20
+    },
+    "kress_00518.png": {
+      "col": 18,
+      "row": 12
+    },
+    "kress_00519.png": {
+      "col": 2,
+      "row": 12
+    },
+    "kress_00520.png": {
+      "col": 14,
+      "row": 21
+    },
+    "kress_00521.png": {
+      "col": 31,
+      "row": 6
+    },
+    "kress_00522.png": {
+      "col": 12,
+      "row": 24
+    },
+    "kress_00523.png": {
+      "col": 13,
+      "row": 11
+    },
+    "kress_00524.png": {
+      "col": 39,
+      "row": 6
+    },
+    "kress_00525.png": {
+      "col": 36,
+      "row": 23
+    },
+    "kress_00526.png": {
+      "col": 19,
+      "row": 15
+    },
+    "kress_00527.png": {
+      "col": 25,
+      "row": 9
+    },
+    "kress_00528.png": {
+      "col": 5,
+      "row": 15
+    },
+    "kress_00529.png": {
+      "col": 31,
+      "row": 15
+    },
+    "kress_00530.png": {
+      "col": 17,
+      "row": 10
+    },
+    "kress_00531.png": {
+      "col": 17,
+      "row": 4
+    },
+    "kress_00532.png": {
+      "col": 14,
+      "row": 4
+    },
+    "kress_00533.png": {
+      "col": 28,
+      "row": 8
+    },
+    "kress_00534.png": {
+      "col": 5,
+      "row": 16
+    },
+    "kress_00535.png": {
+      "col": 14,
+      "row": 0
+    },
+    "kress_00536.png": {
+      "col": 24,
+      "row": 17
+    },
+    "kress_00537.png": {
+      "col": 0,
+      "row": 3
+    },
+    "kress_00538.png": {
+      "col": 30,
+      "row": 20
+    },
+    "kress_00539.png": {
+      "col": 8,
+      "row": 15
+    },
+    "kress_00540.png": {
+      "col": 33,
+      "row": 15
+    },
+    "kress_00541.png": {
+      "col": 31,
+      "row": 16
+    },
+    "kress_00542.png": {
+      "col": 21,
+      "row": 23
+    },
+    "kress_00543.png": {
+      "col": 7,
+      "row": 14
+    },
+    "kress_00544.png": {
+      "col": 2,
+      "row": 9
+    },
+    "kress_00545.png": {
+      "col": 15,
+      "row": 1
+    },
+    "kress_00546.png": {
+      "col": 33,
+      "row": 0
+    },
+    "kress_00547.png": {
+      "col": 31,
+      "row": 1
+    },
+    "kress_00548.png": {
+      "col": 19,
+      "row": 0
+    },
+    "kress_00549.png": {
+      "col": 40,
+      "row": 6
+    },
+    "kress_00550.png": {
+      "col": 21,
+      "row": 8
+    },
+    "kress_00551.png": {
+      "col": 15,
+      "row": 4
+    },
+    "kress_00552.png": {
+      "col": 40,
+      "row": 9
+    },
+    "kress_00553.png": {
+      "col": 28,
+      "row": 7
+    },
+    "kress_00554.png": {
+      "col": 31,
+      "row": 8
+    },
+    "kress_00555.png": {
+      "col": 9,
+      "row": 23
+    },
+    "kress_00556.png": {
+      "col": 38,
+      "row": 10
+    },
+    "kress_00557.png": {
+      "col": 18,
+      "row": 10
+    },
+    "kress_00558.png": {
+      "col": 13,
+      "row": 6
+    },
+    "kress_00559.png": {
+      "col": 6,
+      "row": 17
+    },
+    "kress_00560.png": {
+      "col": 28,
+      "row": 0
+    },
+    "kress_00561.png": {
+      "col": 13,
+      "row": 8
+    },
+    "kress_00562.png": {
+      "col": 24,
+      "row": 19
+    },
+    "kress_00563.png": {
+      "col": 8,
+      "row": 23
+    },
+    "kress_00564.png": {
+      "col": 38,
+      "row": 9
+    },
+    "kress_00565.png": {
+      "col": 3,
+      "row": 10
+    },
+    "kress_00566.png": {
+      "col": 4,
+      "row": 25
+    },
+    "kress_00567.png": {
+      "col": 3,
+      "row": 18
+    },
+    "kress_00568.png": {
+      "col": 37,
+      "row": 21
+    },
+    "kress_00569.png": {
+      "col": 33,
+      "row": 23
+    },
+    "kress_00570.png": {
+      "col": 27,
+      "row": 23
+    },
+    "kress_00571.png": {
+      "col": 34,
+      "row": 25
+    },
+    "kress_00572.png": {
+      "col": 22,
+      "row": 24
+    },
+    "kress_00573.png": {
+      "col": 16,
+      "row": 25
+    },
+    "kress_00574.png": {
+      "col": 32,
+      "row": 22
+    },
+    "kress_00575.png": {
+      "col": 36,
+      "row": 18
+    },
+    "kress_00576.png": {
+      "col": 15,
+      "row": 21
+    },
+    "kress_00577.png": {
+      "col": 17,
+      "row": 9
+    },
+    "kress_00578.png": {
+      "col": 0,
+      "row": 7
+    },
+    "kress_00579.png": {
+      "col": 18,
+      "row": 15
+    },
+    "kress_00580.png": {
+      "col": 20,
+      "row": 6
+    },
+    "kress_00581.png": {
+      "col": 24,
+      "row": 11
+    },
+    "kress_00582.png": {
+      "col": 14,
+      "row": 3
+    },
+    "kress_00583.png": {
+      "col": 34,
+      "row": 3
+    },
+    "kress_00584.png": {
+      "col": 2,
+      "row": 6
+    },
+    "kress_00585.png": {
+      "col": 20,
+      "row": 7
+    },
+    "kress_00586.png": {
+      "col": 3,
+      "row": 22
+    },
+    "kress_00587.png": {
+      "col": 12,
+      "row": 6
+    },
+    "kress_00588.png": {
+      "col": 26,
+      "row": 15
+    },
+    "kress_00589.png": {
+      "col": 11,
+      "row": 5
+    },
+    "kress_00590.png": {
+      "col": 27,
+      "row": 13
+    },
+    "kress_00591.png": {
+      "col": 39,
+      "row": 1
+    },
+    "kress_00592.png": {
+      "col": 3,
+      "row": 12
+    },
+    "kress_00593.png": {
+      "col": 12,
+      "row": 5
+    },
+    "kress_00594.png": {
+      "col": 28,
+      "row": 22
+    },
+    "kress_00595.png": {
+      "col": 2,
+      "row": 2
+    },
+    "kress_00596.png": {
+      "col": 8,
+      "row": 14
+    },
+    "kress_00597.png": {
+      "col": 20,
+      "row": 4
+    },
+    "kress_00598.png": {
+      "col": 20,
+      "row": 14
+    },
+    "kress_00599.png": {
+      "col": 3,
+      "row": 5
+    },
+    "kress_00600.png": {
+      "col": 6,
+      "row": 0
+    },
+    "kress_00601.png": {
+      "col": 3,
+      "row": 17
+    },
+    "kress_00602.png": {
+      "col": 2,
+      "row": 18
+    },
+    "kress_00603.png": {
+      "col": 14,
+      "row": 12
+    },
+    "kress_00604.png": {
+      "col": 13,
+      "row": 20
+    },
+    "kress_00605.png": {
+      "col": 9,
+      "row": 6
+    },
+    "kress_00606.png": {
+      "col": 14,
+      "row": 5
+    },
+    "kress_00607.png": {
+      "col": 21,
+      "row": 11
+    },
+    "kress_00608.png": {
+      "col": 18,
+      "row": 7
+    },
+    "kress_00609.png": {
+      "col": 36,
+      "row": 17
+    },
+    "kress_00610.png": {
+      "col": 5,
+      "row": 12
+    },
+    "kress_00611.png": {
+      "col": 29,
+      "row": 11
+    },
+    "kress_00612.png": {
+      "col": 36,
+      "row": 11
+    },
+    "kress_00613.png": {
+      "col": 3,
+      "row": 7
+    },
+    "kress_00614.png": {
+      "col": 28,
+      "row": 2
+    },
+    "kress_00615.png": {
+      "col": 1,
+      "row": 10
+    },
+    "kress_00616.png": {
+      "col": 33,
+      "row": 20
+    },
+    "kress_00617.png": {
+      "col": 23,
+      "row": 18
+    },
+    "kress_00618.png": {
+      "col": 37,
+      "row": 8
+    },
+    "kress_00619.png": {
+      "col": 1,
+      "row": 19
+    },
+    "kress_00620.png": {
+      "col": 4,
+      "row": 15
+    },
+    "kress_00621.png": {
+      "col": 15,
+      "row": 2
+    },
+    "kress_00622.png": {
+      "col": 5,
+      "row": 5
+    },
+    "kress_00623.png": {
+      "col": 30,
+      "row": 17
+    },
+    "kress_00624.png": {
+      "col": 32,
+      "row": 2
+    },
+    "kress_00625.png": {
+      "col": 13,
+      "row": 2
+    },
+    "kress_00626.png": {
+      "col": 34,
+      "row": 7
+    },
+    "kress_00627.png": {
+      "col": 33,
+      "row": 8
+    },
+    "kress_00628.png": {
+      "col": 18,
+      "row": 23
+    },
+    "kress_00629.png": {
+      "col": 37,
+      "row": 13
+    },
+    "kress_00630.png": {
+      "col": 37,
+      "row": 15
+    },
+    "kress_00631.png": {
+      "col": 21,
+      "row": 22
+    },
+    "kress_00632.png": {
+      "col": 6,
+      "row": 16
+    },
+    "kress_00633.png": {
+      "col": 2,
+      "row": 11
+    },
+    "kress_00634.png": {
+      "col": 13,
+      "row": 13
+    },
+    "kress_00635.png": {
+      "col": 16,
+      "row": 15
+    },
+    "kress_00636.png": {
+      "col": 16,
+      "row": 18
+    },
+    "kress_00637.png": {
+      "col": 21,
+      "row": 20
+    },
+    "kress_00638.png": {
+      "col": 17,
+      "row": 16
+    },
+    "kress_00639.png": {
+      "col": 32,
+      "row": 6
+    },
+    "kress_00640.png": {
+      "col": 0,
+      "row": 14
+    },
+    "kress_00641.png": {
+      "col": 16,
+      "row": 20
+    },
+    "kress_00642.png": {
+      "col": 37,
+      "row": 2
+    },
+    "kress_00643.png": {
+      "col": 13,
+      "row": 16
+    },
+    "kress_00644.png": {
+      "col": 5,
+      "row": 25
+    },
+    "kress_00645.png": {
+      "col": 6,
+      "row": 25
+    },
+    "kress_00646.png": {
+      "col": 8,
+      "row": 0
+    },
+    "kress_00647.png": {
+      "col": 37,
+      "row": 23
+    },
+    "kress_00648.png": {
+      "col": 12,
+      "row": 1
+    },
+    "kress_00649.png": {
+      "col": 28,
+      "row": 3
+    },
+    "kress_00650.png": {
+      "col": 33,
+      "row": 21
+    },
+    "kress_00651.png": {
+      "col": 34,
+      "row": 0
+    },
+    "kress_00652.png": {
+      "col": 7,
+      "row": 5
+    },
+    "kress_00653.png": {
+      "col": 7,
+      "row": 21
+    },
+    "kress_00654.png": {
+      "col": 32,
+      "row": 21
+    },
+    "kress_00655.png": {
+      "col": 36,
+      "row": 10
+    },
+    "kress_00656.png": {
+      "col": 34,
+      "row": 11
+    },
+    "kress_00657.png": {
+      "col": 30,
+      "row": 14
+    },
+    "kress_00658.png": {
+      "col": 28,
+      "row": 19
+    },
+    "kress_00659.png": {
+      "col": 11,
+      "row": 24
+    },
+    "kress_00660.png": {
+      "col": 29,
+      "row": 3
+    },
+    "kress_00661.png": {
+      "col": 7,
+      "row": 9
+    },
+    "kress_00662.png": {
+      "col": 37,
+      "row": 24
+    },
+    "kress_00663.png": {
+      "col": 36,
+      "row": 21
+    },
+    "kress_00664.png": {
+      "col": 28,
+      "row": 24
+    },
+    "kress_00665.png": {
+      "col": 11,
+      "row": 21
+    },
+    "kress_00666.png": {
+      "col": 38,
+      "row": 21
+    },
+    "kress_00667.png": {
+      "col": 10,
+      "row": 25
+    },
+    "kress_00668.png": {
+      "col": 2,
+      "row": 14
+    },
+    "kress_00669.png": {
+      "col": 30,
+      "row": 7
+    },
+    "kress_00670.png": {
+      "col": 11,
+      "row": 1
+    },
+    "kress_00671.png": {
+      "col": 2,
+      "row": 21
+    },
+    "kress_00672.png": {
+      "col": 35,
+      "row": 11
+    },
+    "kress_00673.png": {
+      "col": 26,
+      "row": 13
+    },
+    "kress_00674.png": {
+      "col": 1,
+      "row": 1
+    },
+    "kress_00675.png": {
+      "col": 0,
+      "row": 16
+    },
+    "kress_00676.png": {
+      "col": 36,
+      "row": 1
+    },
+    "kress_00677.png": {
+      "col": 14,
+      "row": 16
+    },
+    "kress_00678.png": {
+      "col": 28,
+      "row": 21
+    },
+    "kress_00679.png": {
+      "col": 19,
+      "row": 24
+    },
+    "kress_00680.png": {
+      "col": 12,
+      "row": 13
+    },
+    "kress_00681.png": {
+      "col": 37,
+      "row": 10
+    },
+    "kress_00682.png": {
+      "col": 26,
+      "row": 2
+    },
+    "kress_00683.png": {
+      "col": 39,
+      "row": 11
+    },
+    "kress_00684.png": {
+      "col": 35,
+      "row": 19
+    },
+    "kress_00685.png": {
+      "col": 36,
+      "row": 7
+    },
+    "kress_00686.png": {
+      "col": 22,
+      "row": 18
+    },
+    "kress_00687.png": {
+      "col": 15,
+      "row": 19
+    },
+    "kress_00688.png": {
+      "col": 24,
+      "row": 20
+    },
+    "kress_00689.png": {
+      "col": 16,
+      "row": 21
+    },
+    "kress_00690.png": {
+      "col": 38,
+      "row": 14
+    },
+    "kress_00691.png": {
+      "col": 12,
+      "row": 20
+    },
+    "kress_00692.png": {
+      "col": 12,
+      "row": 17
+    },
+    "kress_00693.png": {
+      "col": 11,
+      "row": 19
+    },
+    "kress_00694.png": {
+      "col": 35,
+      "row": 16
+    },
+    "kress_00695.png": {
+      "col": 6,
+      "row": 24
+    },
+    "kress_00696.png": {
+      "col": 33,
+      "row": 1
+    },
+    "kress_00697.png": {
+      "col": 10,
+      "row": 6
+    },
+    "kress_00698.png": {
+      "col": 8,
+      "row": 1
+    },
+    "kress_00699.png": {
+      "col": 37,
+      "row": 11
+    },
+    "kress_00700.png": {
+      "col": 14,
+      "row": 13
+    },
+    "kress_00701.png": {
+      "col": 31,
+      "row": 10
+    },
+    "kress_00702.png": {
+      "col": 21,
+      "row": 16
+    },
+    "kress_00703.png": {
+      "col": 21,
+      "row": 19
+    },
+    "kress_00704.png": {
+      "col": 23,
+      "row": 22
+    },
+    "kress_00705.png": {
+      "col": 0,
+      "row": 22
+    },
+    "kress_00706.png": {
+      "col": 38,
+      "row": 18
+    },
+    "kress_00707.png": {
+      "col": 30,
+      "row": 13
+    },
+    "kress_00708.png": {
+      "col": 25,
+      "row": 1
+    },
+    "kress_00709.png": {
+      "col": 16,
+      "row": 17
+    },
+    "kress_00710.png": {
+      "col": 39,
+      "row": 14
+    },
+    "kress_00711.png": {
+      "col": 22,
+      "row": 12
+    },
+    "kress_00712.png": {
+      "col": 6,
+      "row": 15
+    },
+    "kress_00713.png": {
+      "col": 31,
+      "row": 18
+    },
+    "kress_00714.png": {
+      "col": 32,
+      "row": 12
+    },
+    "kress_00715.png": {
+      "col": 27,
+      "row": 4
+    },
+    "kress_00716.png": {
+      "col": 23,
+      "row": 5
+    },
+    "kress_00717.png": {
+      "col": 27,
+      "row": 18
+    },
+    "kress_00718.png": {
+      "col": 12,
+      "row": 21
+    },
+    "kress_00719.png": {
+      "col": 18,
+      "row": 20
+    },
+    "kress_00720.png": {
+      "col": 10,
+      "row": 14
+    },
+    "kress_00721.png": {
+      "col": 3,
+      "row": 23
+    },
+    "kress_00722.png": {
+      "col": 30,
+      "row": 6
+    },
+    "kress_00723.png": {
+      "col": 19,
+      "row": 5
+    },
+    "kress_00724.png": {
+      "col": 8,
+      "row": 16
+    },
+    "kress_00725.png": {
+      "col": 35,
+      "row": 14
+    },
+    "kress_00726.png": {
+      "col": 1,
+      "row": 11
+    },
+    "kress_00727.png": {
+      "col": 33,
+      "row": 7
+    },
+    "kress_00728.png": {
+      "col": 7,
+      "row": 23
+    },
+    "kress_00729.png": {
+      "col": 9,
+      "row": 20
+    },
+    "kress_00730.png": {
+      "col": 38,
+      "row": 19
+    },
+    "kress_00731.png": {
+      "col": 13,
+      "row": 12
+    },
+    "kress_00732.png": {
+      "col": 10,
+      "row": 13
+    },
+    "kress_00733.png": {
+      "col": 4,
+      "row": 7
+    },
+    "kress_00734.png": {
+      "col": 20,
+      "row": 8
+    },
+    "kress_00735.png": {
+      "col": 35,
+      "row": 21
+    },
+    "kress_00736.png": {
+      "col": 16,
+      "row": 23
+    },
+    "kress_00737.png": {
+      "col": 37,
+      "row": 9
+    },
+    "kress_00738.png": {
+      "col": 36,
+      "row": 22
+    },
+    "kress_00739.png": {
+      "col": 13,
+      "row": 25
+    },
+    "kress_00740.png": {
+      "col": 29,
+      "row": 8
+    },
+    "kress_00741.png": {
+      "col": 29,
+      "row": 19
+    },
+    "kress_00742.png": {
+      "col": 20,
+      "row": 20
+    },
+    "kress_00743.png": {
+      "col": 35,
+      "row": 9
+    },
+    "kress_00744.png": {
+      "col": 27,
+      "row": 10
+    },
+    "kress_00745.png": {
+      "col": 10,
+      "row": 18
+    },
+    "kress_00746.png": {
+      "col": 16,
+      "row": 5
+    },
+    "kress_00747.png": {
+      "col": 15,
+      "row": 6
+    },
+    "kress_00748.png": {
+      "col": 12,
+      "row": 11
+    },
+    "kress_00749.png": {
+      "col": 24,
+      "row": 2
+    },
+    "kress_00750.png": {
+      "col": 7,
+      "row": 16
+    },
+    "kress_00751.png": {
+      "col": 7,
+      "row": 8
+    },
+    "kress_00752.png": {
+      "col": 38,
+      "row": 0
+    },
+    "kress_00753.png": {
+      "col": 14,
+      "row": 17
+    },
+    "kress_00754.png": {
+      "col": 11,
+      "row": 9
+    },
+    "kress_00755.png": {
+      "col": 1,
+      "row": 5
+    },
+    "kress_00756.png": {
+      "col": 19,
+      "row": 14
+    },
+    "kress_00757.png": {
+      "col": 22,
+      "row": 17
+    },
+    "kress_00758.png": {
+      "col": 25,
+      "row": 19
+    },
+    "kress_00759.png": {
+      "col": 39,
+      "row": 23
+    },
+    "kress_00760.png": {
+      "col": 25,
+      "row": 18
+    },
+    "kress_00761.png": {
+      "col": 26,
+      "row": 4
+    },
+    "kress_00762.png": {
+      "col": 15,
+      "row": 22
+    },
+    "kress_00763.png": {
+      "col": 6,
+      "row": 14
+    },
+    "kress_00764.png": {
+      "col": 18,
+      "row": 6
+    },
+    "kress_00765.png": {
+      "col": 12,
+      "row": 18
+    },
+    "kress_00766.png": {
+      "col": 23,
+      "row": 3
+    },
+    "kress_00767.png": {
+      "col": 6,
+      "row": 9
+    },
+    "kress_00768.png": {
+      "col": 9,
+      "row": 21
+    },
+    "kress_00769.png": {
+      "col": 34,
+      "row": 10
+    },
+    "kress_00770.png": {
+      "col": 34,
+      "row": 18
+    },
+    "kress_00771.png": {
+      "col": 39,
+      "row": 16
+    },
+    "kress_00772.png": {
+      "col": 26,
+      "row": 12
+    },
+    "kress_00773.png": {
+      "col": 38,
+      "row": 5
+    },
+    "kress_00774.png": {
+      "col": 0,
+      "row": 17
+    },
+    "kress_00775.png": {
+      "col": 38,
+      "row": 20
+    },
+    "kress_00776.png": {
+      "col": 29,
+      "row": 25
+    },
+    "kress_00777.png": {
+      "col": 27,
+      "row": 2
+    },
+    "kress_00778.png": {
+      "col": 26,
+      "row": 16
+    },
+    "kress_00779.png": {
+      "col": 19,
+      "row": 17
+    },
+    "kress_00780.png": {
+      "col": 25,
+      "row": 14
+    },
+    "kress_00781.png": {
+      "col": 13,
+      "row": 18
+    },
+    "kress_00782.png": {
+      "col": 16,
+      "row": 19
+    },
+    "kress_00783.png": {
+      "col": 30,
+      "row": 8
+    },
+    "kress_00784.png": {
+      "col": 0,
+      "row": 20
+    },
+    "kress_00785.png": {
+      "col": 3,
+      "row": 8
+    },
+    "kress_00786.png": {
+      "col": 1,
+      "row": 12
+    },
+    "kress_00787.png": {
+      "col": 25,
+      "row": 22
+    },
+    "kress_00788.png": {
+      "col": 39,
+      "row": 2
+    },
+    "kress_00789.png": {
+      "col": 8,
+      "row": 17
+    },
+    "kress_00790.png": {
+      "col": 4,
+      "row": 10
+    },
+    "kress_00791.png": {
+      "col": 31,
+      "row": 21
+    },
+    "kress_00792.png": {
+      "col": 28,
+      "row": 23
+    },
+    "kress_00793.png": {
+      "col": 20,
+      "row": 24
+    },
+    "kress_00794.png": {
+      "col": 32,
+      "row": 14
+    },
+    "kress_00795.png": {
+      "col": 26,
+      "row": 8
+    },
+    "kress_00796.png": {
+      "col": 11,
+      "row": 11
+    },
+    "kress_00797.png": {
+      "col": 38,
+      "row": 25
+    },
+    "kress_00798.png": {
+      "col": 37,
+      "row": 6
+    },
+    "kress_00799.png": {
+      "col": 30,
+      "row": 25
+    },
+    "kress_00800.png": {
+      "col": 28,
+      "row": 14
+    },
+    "kress_00801.png": {
+      "col": 11,
+      "row": 18
+    },
+    "kress_00802.png": {
+      "col": 21,
+      "row": 21
+    },
+    "kress_00803.png": {
+      "col": 15,
+      "row": 13
+    },
+    "kress_00804.png": {
+      "col": 10,
+      "row": 12
+    },
+    "kress_00805.png": {
+      "col": 0,
+      "row": 15
+    },
+    "kress_00806.png": {
+      "col": 25,
+      "row": 8
+    },
+    "kress_00807.png": {
+      "col": 22,
+      "row": 9
+    },
+    "kress_00808.png": {
+      "col": 33,
+      "row": 25
+    },
+    "kress_00809.png": {
+      "col": 18,
+      "row": 14
+    },
+    "kress_00810.png": {
+      "col": 6,
+      "row": 23
+    },
+    "kress_00811.png": {
+      "col": 24,
+      "row": 15
+    },
+    "kress_00812.png": {
+      "col": 18,
+      "row": 18
+    },
+    "kress_00813.png": {
+      "col": 8,
+      "row": 12
+    },
+    "kress_00814.png": {
+      "col": 2,
+      "row": 16
+    },
+    "kress_00815.png": {
+      "col": 23,
+      "row": 17
+    },
+    "kress_00816.png": {
+      "col": 32,
+      "row": 9
+    },
+    "kress_00817.png": {
+      "col": 12,
+      "row": 19
+    },
+    "kress_00818.png": {
+      "col": 9,
+      "row": 18
+    },
+    "kress_00819.png": {
+      "col": 8,
+      "row": 19
+    },
+    "kress_00820.png": {
+      "col": 29,
+      "row": 16
+    },
+    "kress_00821.png": {
+      "col": 37,
+      "row": 14
+    },
+    "kress_00822.png": {
+      "col": 17,
+      "row": 14
+    },
+    "kress_00823.png": {
+      "col": 28,
+      "row": 15
+    },
+    "kress_00824.png": {
+      "col": 38,
+      "row": 13
+    },
+    "kress_00825.png": {
+      "col": 38,
+      "row": 17
+    },
+    "kress_00826.png": {
+      "col": 12,
+      "row": 16
+    },
+    "kress_00827.png": {
+      "col": 19,
+      "row": 6
+    },
+    "kress_00828.png": {
+      "col": 14,
+      "row": 20
+    },
+    "kress_00829.png": {
+      "col": 2,
+      "row": 15
+    },
+    "kress_00830.png": {
+      "col": 20,
+      "row": 19
+    },
+    "kress_00831.png": {
+      "col": 36,
+      "row": 20
+    },
+    "kress_00832.png": {
+      "col": 23,
+      "row": 20
+    },
+    "kress_00833.png": {
+      "col": 11,
+      "row": 22
+    },
+    "kress_00834.png": {
+      "col": 8,
+      "row": 11
+    },
+    "kress_00835.png": {
+      "col": 18,
+      "row": 9
+    },
+    "kress_00836.png": {
+      "col": 9,
+      "row": 0
+    },
+    "kress_00837.png": {
+      "col": 37,
+      "row": 20
+    },
+    "kress_00838.png": {
+      "col": 12,
+      "row": 22
+    },
+    "kress_00839.png": {
+      "col": 33,
+      "row": 6
+    },
+    "kress_00840.png": {
+      "col": 33,
+      "row": 3
+    },
+    "kress_00841.png": {
+      "col": 19,
+      "row": 8
+    },
+    "kress_00842.png": {
+      "col": 24,
+      "row": 3
+    },
+    "kress_00843.png": {
+      "col": 27,
+      "row": 1
+    },
+    "kress_00844.png": {
+      "col": 26,
+      "row": 1
+    },
+    "kress_00845.png": {
+      "col": 30,
+      "row": 21
+    },
+    "kress_00846.png": {
+      "col": 19,
+      "row": 20
+    },
+    "kress_00847.png": {
+      "col": 9,
+      "row": 22
+    },
+    "kress_00848.png": {
+      "col": 10,
+      "row": 22
+    },
+    "kress_00849.png": {
+      "col": 26,
+      "row": 21
+    },
+    "kress_00850.png": {
+      "col": 10,
+      "row": 21
+    },
+    "kress_00851.png": {
+      "col": 8,
+      "row": 22
+    },
+    "kress_00852.png": {
+      "col": 22,
+      "row": 22
+    },
+    "kress_00853.png": {
+      "col": 31,
+      "row": 17
+    },
+    "kress_00854.png": {
+      "col": 6,
+      "row": 21
+    },
+    "kress_00855.png": {
+      "col": 0,
+      "row": 11
+    },
+    "kress_00856.png": {
+      "col": 7,
+      "row": 15
+    },
+    "kress_00857.png": {
+      "col": 31,
+      "row": 13
+    },
+    "kress_00858.png": {
+      "col": 21,
+      "row": 3
+    },
+    "kress_00859.png": {
+      "col": 26,
+      "row": 19
+    },
+    "kress_00860.png": {
+      "col": 6,
+      "row": 13
+    },
+    "kress_00861.png": {
+      "col": 40,
+      "row": 8
+    },
+    "kress_00862.png": {
+      "col": 23,
+      "row": 15
+    },
+    "kress_00863.png": {
+      "col": 39,
+      "row": 25
+    },
+    "kress_00864.png": {
+      "col": 38,
+      "row": 4
+    },
+    "kress_00865.png": {
+      "col": 20,
+      "row": 18
+    },
+    "kress_00866.png": {
+      "col": 23,
+      "row": 16
+    },
+    "kress_00867.png": {
+      "col": 36,
+      "row": 13
+    },
+    "kress_00868.png": {
+      "col": 36,
+      "row": 14
+    },
+    "kress_00869.png": {
+      "col": 7,
+      "row": 22
+    },
+    "kress_00870.png": {
+      "col": 23,
+      "row": 14
+    },
+    "kress_00871.png": {
+      "col": 40,
+      "row": 14
+    },
+    "kress_00872.png": {
+      "col": 24,
+      "row": 25
+    },
+    "kress_00873.png": {
+      "col": 15,
+      "row": 24
+    },
+    "kress_00874.png": {
+      "col": 32,
+      "row": 1
+    },
+    "kress_00875.png": {
+      "col": 8,
+      "row": 18
+    },
+    "kress_00876.png": {
+      "col": 21,
+      "row": 14
+    },
+    "kress_00877.png": {
+      "col": 24,
+      "row": 24
+    },
+    "kress_00878.png": {
+      "col": 27,
+      "row": 9
+    },
+    "kress_00879.png": {
+      "col": 5,
+      "row": 23
+    },
+    "kress_00880.png": {
+      "col": 0,
+      "row": 25
+    },
+    "kress_00881.png": {
+      "col": 21,
+      "row": 18
+    },
+    "kress_00882.png": {
+      "col": 36,
+      "row": 4
+    },
+    "kress_00883.png": {
+      "col": 22,
+      "row": 25
+    },
+    "kress_00884.png": {
+      "col": 40,
+      "row": 16
+    },
+    "kress_00885.png": {
+      "col": 19,
+      "row": 21
+    },
+    "kress_00886.png": {
+      "col": 9,
+      "row": 8
+    },
+    "kress_00887.png": {
+      "col": 32,
+      "row": 13
+    },
+    "kress_00888.png": {
+      "col": 8,
+      "row": 6
+    },
+    "kress_00889.png": {
+      "col": 29,
+      "row": 22
+    },
+    "kress_00890.png": {
+      "col": 33,
+      "row": 16
+    },
+    "kress_00891.png": {
+      "col": 18,
+      "row": 3
+    },
+    "kress_00892.png": {
+      "col": 15,
+      "row": 16
+    },
+    "kress_00893.png": {
+      "col": 16,
+      "row": 16
+    },
+    "kress_00894.png": {
+      "col": 35,
+      "row": 3
+    },
+    "kress_00895.png": {
+      "col": 21,
+      "row": 15
+    },
+    "kress_00896.png": {
+      "col": 35,
+      "row": 8
+    },
+    "kress_00897.png": {
+      "col": 36,
+      "row": 19
+    },
+    "kress_00898.png": {
+      "col": 1,
+      "row": 17
+    },
+    "kress_00899.png": {
+      "col": 36,
+      "row": 12
+    },
+    "kress_00900.png": {
+      "col": 14,
+      "row": 18
+    },
+    "kress_00901.png": {
+      "col": 27,
+      "row": 16
+    },
+    "kress_00902.png": {
+      "col": 28,
+      "row": 18
+    },
+    "kress_00903.png": {
+      "col": 33,
+      "row": 19
+    },
+    "kress_00904.png": {
+      "col": 22,
+      "row": 20
+    },
+    "kress_00905.png": {
+      "col": 33,
+      "row": 22
+    },
+    "kress_00906.png": {
+      "col": 39,
+      "row": 18
+    },
+    "kress_00907.png": {
+      "col": 3,
+      "row": 3
+    },
+    "kress_00908.png": {
+      "col": 13,
+      "row": 19
+    },
+    "kress_00909.png": {
+      "col": 19,
+      "row": 25
+    },
+    "kress_00910.png": {
+      "col": 31,
+      "row": 23
+    },
+    "kress_00911.png": {
+      "col": 2,
+      "row": 25
+    },
+    "kress_00912.png": {
+      "col": 3,
+      "row": 25
+    },
+    "kress_00913.png": {
+      "col": 19,
+      "row": 13
+    },
+    "kress_00914.png": {
+      "col": 20,
+      "row": 25
+    },
+    "kress_00915.png": {
+      "col": 9,
+      "row": 12
+    },
+    "kress_00916.png": {
+      "col": 37,
+      "row": 16
+    },
+    "kress_00917.png": {
+      "col": 20,
+      "row": 16
+    },
+    "kress_00918.png": {
+      "col": 16,
+      "row": 24
+    },
+    "kress_00919.png": {
+      "col": 15,
+      "row": 15
+    },
+    "kress_00920.png": {
+      "col": 32,
+      "row": 11
+    },
+    "kress_00921.png": {
+      "col": 35,
+      "row": 12
+    },
+    "kress_00922.png": {
+      "col": 10,
+      "row": 11
+    },
+    "kress_00923.png": {
+      "col": 37,
+      "row": 19
+    },
+    "kress_00924.png": {
+      "col": 37,
+      "row": 18
+    },
+    "kress_00925.png": {
+      "col": 34,
+      "row": 16
+    },
+    "kress_00926.png": {
+      "col": 7,
+      "row": 11
+    },
+    "kress_00927.png": {
+      "col": 34,
+      "row": 15
+    },
+    "kress_00928.png": {
+      "col": 8,
+      "row": 25
+    },
+    "kress_00929.png": {
+      "col": 24,
+      "row": 22
+    },
+    "kress_00930.png": {
+      "col": 10,
+      "row": 0
+    },
+    "kress_00931.png": {
+      "col": 10,
+      "row": 2
+    },
+    "kress_00932.png": {
+      "col": 33,
+      "row": 11
+    },
+    "kress_00933.png": {
+      "col": 29,
+      "row": 6
+    },
+    "kress_00934.png": {
+      "col": 28,
+      "row": 5
+    },
+    "kress_00935.png": {
+      "col": 29,
+      "row": 5
+    },
+    "kress_00936.png": {
+      "col": 12,
+      "row": 0
+    },
+    "kress_00937.png": {
+      "col": 25,
+      "row": 5
+    },
+    "kress_00938.png": {
+      "col": 31,
+      "row": 12
+    },
+    "kress_00939.png": {
+      "col": 30,
+      "row": 0
+    },
+    "kress_00940.png": {
+      "col": 26,
+      "row": 5
+    },
+    "kress_00941.png": {
+      "col": 28,
+      "row": 4
+    },
+    "kress_00942.png": {
+      "col": 25,
+      "row": 3
+    },
+    "kress_00943.png": {
+      "col": 30,
+      "row": 12
+    },
+    "kress_00944.png": {
+      "col": 29,
+      "row": 4
+    },
+    "kress_00945.png": {
+      "col": 32,
+      "row": 4
+    },
+    "kress_00946.png": {
+      "col": 30,
+      "row": 3
+    },
+    "kress_00947.png": {
+      "col": 24,
+      "row": 5
+    },
+    "kress_00948.png": {
+      "col": 28,
+      "row": 1
+    },
+    "kress_00949.png": {
+      "col": 20,
+      "row": 15
+    },
+    "kress_00950.png": {
+      "col": 28,
+      "row": 12
+    },
+    "kress_00951.png": {
+      "col": 29,
+      "row": 2
+    },
+    "kress_00952.png": {
+      "col": 30,
+      "row": 4
+    },
+    "kress_00953.png": {
+      "col": 33,
+      "row": 12
+    },
+    "kress_00954.png": {
+      "col": 4,
+      "row": 21
+    },
+    "kress_00955.png": {
+      "col": 5,
+      "row": 20
+    },
+    "kress_00956.png": {
+      "col": 4,
+      "row": 20
+    },
+    "kress_00957.png": {
+      "col": 23,
+      "row": 12
+    },
+    "kress_00958.png": {
+      "col": 21,
+      "row": 7
+    },
+    "kress_00959.png": {
+      "col": 34,
+      "row": 20
+    },
+    "kress_00960.png": {
+      "col": 3,
+      "row": 11
+    },
+    "kress_00961.png": {
+      "col": 0,
+      "row": 19
+    },
+    "kress_00962.png": {
+      "col": 8,
+      "row": 20
+    },
+    "kress_00963.png": {
+      "col": 33,
+      "row": 4
+    },
+    "kress_00964.png": {
+      "col": 10,
+      "row": 9
+    },
+    "kress_00965.png": {
+      "col": 38,
+      "row": 15
+    },
+    "kress_00966.png": {
+      "col": 33,
+      "row": 18
+    },
+    "kress_00967.png": {
+      "col": 0,
+      "row": 6
+    },
+    "kress_00968.png": {
+      "col": 15,
+      "row": 12
+    },
+    "kress_00969.png": {
+      "col": 36,
+      "row": 24
+    },
+    "kress_00970.png": {
+      "col": 38,
+      "row": 22
+    },
+    "kress_00971.png": {
+      "col": 15,
+      "row": 5
+    },
+    "kress_00972.png": {
+      "col": 35,
+      "row": 24
+    },
+    "kress_00973.png": {
+      "col": 0,
+      "row": 24
+    },
+    "kress_00974.png": {
+      "col": 22,
+      "row": 14
+    },
+    "kress_00975.png": {
+      "col": 3,
+      "row": 24
+    },
+    "kress_00976.png": {
+      "col": 11,
+      "row": 7
+    },
+    "kress_00977.png": {
+      "col": 29,
+      "row": 17
+    },
+    "kress_00978.png": {
+      "col": 20,
+      "row": 5
+    },
+    "kress_00979.png": {
+      "col": 20,
+      "row": 9
+    },
+    "kress_00980.png": {
+      "col": 1,
+      "row": 0
+    },
+    "kress_00981.png": {
+      "col": 2,
+      "row": 23
+    },
+    "kress_00982.png": {
+      "col": 1,
+      "row": 24
+    },
+    "kress_00983.png": {
+      "col": 12,
+      "row": 25
+    },
+    "kress_00984.png": {
+      "col": 40,
+      "row": 15
+    },
+    "kress_00985.png": {
+      "col": 26,
+      "row": 17
+    },
+    "kress_00986.png": {
+      "col": 19,
+      "row": 19
+    },
+    "kress_00987.png": {
+      "col": 15,
+      "row": 17
+    },
+    "kress_00988.png": {
+      "col": 9,
+      "row": 25
+    },
+    "kress_00989.png": {
+      "col": 1,
+      "row": 25
+    },
+    "kress_00990.png": {
+      "col": 21,
+      "row": 17
+    },
+    "kress_00991.png": {
+      "col": 31,
+      "row": 7
+    },
+    "kress_00992.png": {
+      "col": 17,
+      "row": 18
+    },
+    "kress_00993.png": {
+      "col": 31,
+      "row": 14
+    },
+    "kress_00994.png": {
+      "col": 29,
+      "row": 14
+    },
+    "kress_00995.png": {
+      "col": 26,
+      "row": 11
+    },
+    "kress_00996.png": {
+      "col": 2,
+      "row": 24
+    },
+    "kress_00997.png": {
+      "col": 35,
+      "row": 15
+    },
+    "kress_00998.png": {
+      "col": 10,
+      "row": 17
+    },
+    "kress_00999.png": {
+      "col": 10,
+      "row": 20
+    },
+    "kress_01000.png": {
+      "col": 7,
+      "row": 17
+    },
+    "kress_01001.png": {
+      "col": 6,
+      "row": 11
+    },
+    "kress_01002.png": {
+      "col": 1,
+      "row": 4
+    },
+    "kress_01003.png": {
+      "col": 6,
+      "row": 3
+    },
+    "kress_01004.png": {
+      "col": 40,
+      "row": 0
+    },
+    "kress_01005.png": {
+      "col": 36,
+      "row": 3
+    },
+    "kress_01006.png": {
+      "col": 14,
+      "row": 19
+    },
+    "kress_01007.png": {
+      "col": 33,
+      "row": 17
+    },
+    "kress_01008.png": {
+      "col": 36,
+      "row": 16
+    },
+    "kress_01009.png": {
+      "col": 29,
+      "row": 1
+    },
+    "kress_01010.png": {
+      "col": 22,
+      "row": 10
+    },
+    "kress_01011.png": {
+      "col": 39,
+      "row": 9
+    },
+    "kress_01012.png": {
+      "col": 38,
+      "row": 3
+    },
+    "kress_01013.png": {
+      "col": 5,
+      "row": 24
+    },
+    "kress_01014.png": {
+      "col": 24,
+      "row": 9
+    },
+    "kress_01015.png": {
+      "col": 30,
+      "row": 19
+    },
+    "kress_01016.png": {
+      "col": 37,
+      "row": 22
+    },
+    "kress_01017.png": {
+      "col": 32,
+      "row": 15
+    },
+    "kress_01018.png": {
+      "col": 2,
+      "row": 4
+    },
+    "kress_01019.png": {
+      "col": 29,
+      "row": 15
+    },
+    "kress_01020.png": {
+      "col": 33,
+      "row": 9
+    },
+    "kress_01021.png": {
+      "col": 22,
+      "row": 16
+    },
+    "kress_01022.png": {
+      "col": 27,
+      "row": 14
+    },
+    "kress_01023.png": {
+      "col": 34,
+      "row": 13
+    },
+    "kress_01024.png": {
+      "col": 33,
+      "row": 10
+    },
+    "kress_01025.png": {
+      "col": 26,
+      "row": 14
+    },
+    "kress_01026.png": {
+      "col": 18,
+      "row": 17
+    },
+    "kress_01027.png": {
+      "col": 37,
+      "row": 5
+    },
+    "kress_01028.png": {
+      "col": 17,
+      "row": 11
+    },
+    "kress_01029.png": {
+      "col": 38,
+      "row": 7
+    },
+    "kress_01030.png": {
+      "col": 35,
+      "row": 5
+    },
+    "kress_01031.png": {
+      "col": 32,
+      "row": 18
+    },
+    "kress_01032.png": {
+      "col": 27,
+      "row": 15
+    },
+    "kress_01033.png": {
+      "col": 20,
+      "row": 12
+    },
+    "kress_01034.png": {
+      "col": 15,
+      "row": 7
+    },
+    "kress_01035.png": {
+      "col": 2,
+      "row": 17
+    },
+    "kress_01036.png": {
+      "col": 5,
+      "row": 18
+    },
+    "kress_01037.png": {
+      "col": 4,
+      "row": 24
+    },
+    "kress_01038.png": {
+      "col": 3,
+      "row": 21
+    },
+    "kress_01039.png": {
+      "col": 27,
+      "row": 7
+    },
+    "kress_01040.png": {
+      "col": 0,
+      "row": 1
+    },
+    "kress_01041.png": {
+      "col": 5,
+      "row": 14
+    },
+    "kress_01042.png": {
+      "col": 40,
+      "row": 3
+    },
+    "kress_01043.png": {
+      "col": 40,
+      "row": 2
+    },
+    "kress_01044.png": {
+      "col": 10,
+      "row": 16
+    },
+    "kress_01045.png": {
+      "col": 11,
+      "row": 15
+    },
+    "kress_01046.png": {
+      "col": 7,
+      "row": 19
+    },
+    "kress_01047.png": {
+      "col": 9,
+      "row": 16
+    },
+    "kress_01048.png": {
+      "col": 11,
+      "row": 14
+    },
+    "kress_01049.png": {
+      "col": 10,
+      "row": 15
+    },
+    "kress_01050.png": {
+      "col": 12,
+      "row": 14
+    },
+    "kress_01051.png": {
+      "col": 29,
+      "row": 0
+    },
+    "kress_01052.png": {
+      "col": 19,
+      "row": 18
+    },
+    "kress_01053.png": {
+      "col": 9,
+      "row": 15
+    },
+    "kress_01054.png": {
+      "col": 28,
+      "row": 6
+    },
+    "kress_01055.png": {
+      "col": 4,
+      "row": 5
+    },
+    "kress_01056.png": {
+      "col": 3,
+      "row": 6
+    }
+  }
+}
